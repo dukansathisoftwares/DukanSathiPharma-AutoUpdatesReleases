@@ -1,5 +1,5 @@
 # DukanSathiPharma-AutoUpdatesReleases
-New Release – DukanSathi Pharma v1.1.3
+New Release – DukanSathi Pharma v1.1.14
 
 This update includes improvements, bug fixes, and performance enhancements for a smoother billing & inventory experience.
 Installers for Windows are available in the assets section below.
